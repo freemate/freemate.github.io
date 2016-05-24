@@ -32,6 +32,19 @@ lang: en
       </div>
   </div>
   {% endfor %}
+  <div class="post">
+      <a href="{{ index.html }}">
+        <h2 class="post-title">{{ this_post.title }}</h2>
+      </a>
+      <!--{% include category_info %}
+      {% include source_info %}-->
+      <div class="post-content">
+          {{ this_post.excerpt }}
+      </div>
+      <div class="align-right">
+        <a href="{{ this_post.url }}">more ...</a>
+      </div>
+  </div>
 </div>
 <script type="text/javascript">
   var el = document.getElementById("recent-posts");
