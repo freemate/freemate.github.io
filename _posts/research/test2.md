@@ -2,7 +2,7 @@
 layout: post
 title: "How to use MathJax in Jekyll generated Github pages"
 author: Haixing Hu
-category: programming
+category: research
 tags: [web development, ruby, javascript, html, jekyll, github]
 use_math: true
 ---
