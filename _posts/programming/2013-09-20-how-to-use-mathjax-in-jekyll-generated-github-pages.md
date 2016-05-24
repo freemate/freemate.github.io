@@ -10,7 +10,7 @@ use_math: true
 There are many solutions to support [MathJax](www.mathjax.org) in
 [Jekyll](http://jekyllrb.com/) on the web, but few of them could meet my
 requirement. After spending a whole day to google the solution, at last I solve
-the problem. My solution is not perfect, but it works well for me.
+the problem. My solution is not perfect, but it works well for me. LOL
 
 <!--more-->
 
