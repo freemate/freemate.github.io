@@ -1,9 +1,9 @@
 # This is the default format.
 # For more see: http://jekyllrb.com/docs/permalinks/
 
-# markdown: kramdown
-markdown: maruku
-markdown_ext: markdown,mkd,mkdn,md
+markdown: kramdown
+#markdown: maruku
+#markdown_ext: markdown,mkd,mkdn,md
 permalink: /:categories/:year/:month/:day/:title
 exclude:
     - ".rvmrc"
