@@ -27,59 +27,49 @@ excerpt_separator: <!--more-->
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Haixing Hu's Homepage
-tagline: We must know, we shall know
+title : Freemate
+tagline: It's all about math.
 author :
-  name : Haixing Hu
-  email : starfish.hu@gmail.com
-  github : Haixing-Hu
-  facebook: starfish.hu
-  weibo: 2566267863
-  linkedin: haixing
+  name : Freemate
+  email : exsidia@gmail.com
+  github : freemate
 # twitter : username
 # feedburner : feedname
 
 # The license for the articles of the site
-license:
-  url: http://creativecommons.org/licenses/by-nc-sa/3.0/
-  img:
-    - /img/cc.png
-    - /img/by.png
-    - /img/nc.png
-    - /img/sa.png
 
 # Configurations for the menu items of the navigation bar
-menuitems:
-    - { title:    Research, 
-        category: research,
-        url:      /research.html }
-    - { title:    Programming, 
-        category: programming,
-        url:      /programming.html }
-    - { title:    Computer, 
-        category: computer,
-        url:      /computer.html }
-    - { title:    Life, 
-        category: life,
-        url:      /life.html }
-    - { title:    Misc, 
-        category: misc,
-        url:      /misc.html }
-    - { title:    Archive, 
-        url:      /archive.html }
-    - { title:    Tags, 
-        url:      /tags.html }
-    - { title:    About,
-        category: about,
-        dropdown: true,
-        subitems: [ { title: "Curriculum Vitae",
-                      url:   "/about/cv.html" },
-                    { title: "Publications",
-                      url:   "/about/publications.html" },
-                    { title: "Projects",
-                      url:   "/about/projects.html" },
-                    { title: "Teaching",
-                      url:   "/about/teaching.html" } ] }
+#menuitems:
+#    - { title:    Research, 
+#        category: research,
+#        url:      /research.html }
+#    - { title:    Programming, 
+#        category: programming,
+#        url:      /programming.html }
+#    - { title:    Computer, 
+#        category: computer,
+#        url:      /computer.html }
+#    - { title:    Life, 
+#        category: life,
+#        url:      /life.html }
+#    - { title:    Misc, 
+#        category: misc,
+#        url:      /misc.html }
+#    - { title:    Archive, 
+#        url:      /archive.html }
+#    - { title:    Tags, 
+#        url:      /tags.html }
+#    - { title:    About,
+#        category: about,
+#        dropdown: true,
+#        subitems: [ { title: "Curriculum Vitae",
+#                      url:   "/about/cv.html" },
+#                    { title: "Publications",
+#                      url:   "/about/publications.html" },
+#                    { title: "Projects",
+#                      url:   "/about/projects.html" },
+#                    { title: "Teaching",
+#                      url:   "/about/teaching.html" } ] }
 
 sections:
     - research
