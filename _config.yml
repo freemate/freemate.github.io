@@ -14,7 +14,8 @@ exclude:
     - "bower.json"
 
 # set pygments to true in order to support syntax highlight
-pygments: true
+#pygments: true
+hightlighter: rouge
 
 # support the pagination
 paginate: 5
