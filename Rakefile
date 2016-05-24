@@ -6,7 +6,7 @@ require 'time'
 SOURCE = "."
 CONFIG = {
   'version' => "0.3.0",
-  'author' => "Haixing Hu",
+  'author' => "Freemate",
   'themes' => File.join(SOURCE, "_includes", "themes"),
   'layouts' => File.join(SOURCE, "_layouts"),
   'posts' => File.join(SOURCE, "_posts"),
