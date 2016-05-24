@@ -142,10 +142,10 @@ JB :
   # Set 'provider' to the comment provider you want to use.
   # Set 'provider' to false to turn commenting off globally.
   #
-  comments :
-    provider : disqus
-    disqus :
-      short_name : haixing
+#  comments :
+#    provider : disqus
+#    disqus :
+#      short_name : haixing
     # livefyre :
     #   site_id : 123
     # intensedebate :
@@ -160,10 +160,10 @@ JB :
   # Set 'provider' to the analytics provider you want to use.
   # Set 'provider' to false to turn analytics off globally.
   #
-  analytics :
-    provider : google
-    google :
-        tracking_id : 'UA-44085641-1'
+#  analytics :
+#    provider : google
+#    google :
+#        tracking_id : 'UA-44085641-1'
     # getclicky :
     #   site_id :
     # mixpanel :
@@ -187,22 +187,22 @@ JB :
   # NOTE: in order to make the buttons aligned in the same line, it's better to
   # put the 'facebook' at the frist and put the 'googleplus' at the last.
   #
-  sharing :
-     provider : [facebook, googleplus]
-     facebook :
-       layout : button_count
-       faces : false
-       width : 90
-     googleplus :
-       annotation : bubble
-       size : medium
-       width : 20
-     twitter :
-       size :
-       via :
-       count :
-     linkedin :
-       counter : right
+#  sharing :
+#     provider : [facebook, googleplus]
+#     facebook :
+#       layout : button_count
+#       faces : false
+#       width : 90
+#     googleplus :
+#       annotation : bubble
+#       size : medium
+#       width : 20
+#     twitter :
+#       size :
+#       via :
+#       count :
+#     linkedin :
+#       counter : right
 
   # Settings for all other include helpers can be defined by creating
   # a hash with key named for the given helper. ex:
