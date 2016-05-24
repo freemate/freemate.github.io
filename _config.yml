@@ -88,7 +88,7 @@ sections:
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://haixing-hu.github.io
+production_url : http://freemate.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -135,8 +135,8 @@ JB :
   archive_path: /archive.html
   categories_path : /categories.html
   tags_path : /tags.html
-  atom_path : /feed.atom
-  rss_path : /feed.rss
+#  atom_path : /feed.atom
+#  rss_path : /feed.rss
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
